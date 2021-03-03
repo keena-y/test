@@ -177,4 +177,3 @@ Git has a mutable index called stage.
 使用命令git reset HEAD <file>可以把暂存区的修改撤销掉（unstage），重新放回工作区
 如：git reset HEAD readme.txt
 
-15.删除文件
